@@ -1,0 +1,34 @@
+#back{
+    /* background-image:url("../images/Group\ 274@2x.jpg") ; */
+width:1350px ;
+height: 630px;
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+.form {
+     padding-top: 140px;
+}
+
+.registertitle{
+    
+    border: 1px solid black;
+    width: 350px;
+    height: 430px;
+    background-color: #ffff;
+    margin-left: 800px;
+    border-radius: 31px;
+    text-align: center;
+ 
+}
+#button{
+    background-color: #3F9FA1;
+    
+}
+#register{
+color:black;
+}
+#register:hover{
+    color: #3F9FA1;
+}
